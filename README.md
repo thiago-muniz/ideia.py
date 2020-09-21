@@ -9,4 +9,4 @@ Repositório de ideias para programas e sistemas.
 ### 1. [**Sistema de Biblioteca**](https://github.com/thiago-muniz/ideias.py/tree/master/Sistema%20de%20Biblioteca)
    * WIP - Sistema de controle para uma biblioteca pequena.
 ### 1. [**Sorteador de Exercício**](https://github.com/thiago-muniz/ideias.py/tree/master/Sorteador%20de%20Exerc%C3%ADcios)
-   * Programa escrito em python durante os estudos da linguagem, ataravés do [Curso em Vídeo - Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), para sortear exercícios e melhorar a prática.
+   * Programa escrito em python durante o estudo da linguagem, ataravés do [Curso em Vídeo - Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6), para sortear exercícios e melhorar a prática.
