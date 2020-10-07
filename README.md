@@ -1,7 +1,7 @@
-# ideias.py
-Repositório de ideias para programas e sistemas.
+<h1> ideias.py</h1><img src="https://www.python.org/static/img/python-logo.png">
+<h4>Repositório de ideias para programas e sistemas.</h4>
 <ol>
-<li><a href="https://github.com/thiago-muniz/ideias.py/tree/master/Bingo">Bingo</a>
+<li><b><a href="https://github.com/thiago-muniz/ideias.py/tree/master/Bingo">Bingo</a></b>
    <ul>
    <li>dois programas simples para jogo do Bigo.</li>
    <li>Sorteador de número aleatórios para cartela</li>
